@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0x2c00" name="uni2C00"/><!-- GLAGOLITIC CAPITAL LETTER AZU -->
+      <map code="0x2c01" name="uni2C01"/><!-- GLAGOLITIC CAPITAL LETTER BUKY -->
+      <map code="0x2c02" name="uni2C02"/><!-- GLAGOLITIC CAPITAL LETTER VEDE -->
+      <map code="0x2c03" name="uni2C03"/><!-- GLAGOLITIC CAPITAL LETTER GLAGOLI -->
+      <map code="0x2c04" name="uni2C04"/><!-- GLAGOLITIC CAPITAL LETTER DOBRO -->
+      <map code="0x2c05" name="uni2C05"/><!-- GLAGOLITIC CAPITAL LETTER YESTU -->
+      <map code="0x2c06" name="uni2C06"/><!-- GLAGOLITIC CAPITAL LETTER ZHIVETE -->
+      <map code="0x2c07" name="uni2C07"/><!-- GLAGOLITIC CAPITAL LETTER DZELO -->
+      <map code="0x2c08" name="uni2C08"/><!-- GLAGOLITIC CAPITAL LETTER ZEMLJA -->
+      <map code="0x2c09" name="uni2C09"/><!-- GLAGOLITIC CAPITAL LETTER IZHE -->
+      <map code="0x2c0a" name="uni2C0A"/><!-- GLAGOLITIC CAPITAL LETTER INITIAL IZHE -->
+      <map code="0x2c0b" name="uni2C0B"/><!-- GLAGOLITIC CAPITAL LETTER I -->
+      <map code="0x2c0c" name="uni2C0C"/><!-- GLAGOLITIC CAPITAL LETTER DJERVI -->
+      <map code="0x2c0d" name="uni2C0D"/><!-- GLAGOLITIC CAPITAL LETTER KAKO -->
+      <map code="0x2c0e" name="uni2C0E"/><!-- GLAGOLITIC CAPITAL LETTER LJUDIJE -->
+      <map code="0x2c0f" name="uni2C0F"/><!-- GLAGOLITIC CAPITAL LETTER MYSLITE -->
+      <map code="0x2c10" name="uni2C10"/><!-- GLAGOLITIC CAPITAL LETTER NASHI -->
+      <map code="0x2c11" name="uni2C11"/><!-- GLAGOLITIC CAPITAL LETTER ONU -->
+      <map code="0x2c12" name="uni2C12"/><!-- GLAGOLITIC CAPITAL LETTER POKOJI -->
+      <map code="0x2c13" name="uni2C13"/><!-- GLAGOLITIC CAPITAL LETTER RITSI -->
+      <map code="0x2c14" name="uni2C14"/><!-- GLAGOLITIC CAPITAL LETTER SLOVO -->
+      <map code="0x2c15" name="uni2C15"/><!-- GLAGOLITIC CAPITAL LETTER TVRIDO -->
+      <map code="0x2c16" name="uni2C16"/><!-- GLAGOLITIC CAPITAL LETTER UKU -->
+      <map code="0x2c17" name="uni2C17"/><!-- GLAGOLITIC CAPITAL LETTER FRITU -->
+      <map code="0x2c18" name="uni2C18"/><!-- GLAGOLITIC CAPITAL LETTER HERU -->
+      <map code="0x2c19" name="uni2C19"/><!-- GLAGOLITIC CAPITAL LETTER OTU -->
+      <map code="0x2c1a" name="uni2C1A"/><!-- GLAGOLITIC CAPITAL LETTER PE -->
+      <map code="0x2c1b" name="uni2C1B"/><!-- GLAGOLITIC CAPITAL LETTER SHTA -->
+      <map code="0x2c1c" name="uni2C1C"/><!-- GLAGOLITIC CAPITAL LETTER TSI -->
+      <map code="0x2c1d" name="uni2C1D"/><!-- GLAGOLITIC CAPITAL LETTER CHRIVI -->
+      <map code="0x2c1e" name="uni2C1E"/><!-- GLAGOLITIC CAPITAL LETTER SHA -->
+      <map code="0x2c1f" name="uni2C1F"/><!-- GLAGOLITIC CAPITAL LETTER YERU -->
+      <map code="0x2c20" name="uni2C20"/><!-- GLAGOLITIC CAPITAL LETTER YERI -->
+      <map code="0x2c21" name="uni2C21"/><!-- GLAGOLITIC CAPITAL LETTER YATI -->
+      <map code="0x2c22" name="uni2C22"/><!-- GLAGOLITIC CAPITAL LETTER SPIDERY HA -->
+      <map code="0x2c23" name="uni2C23"/><!-- GLAGOLITIC CAPITAL LETTER YU -->
+      <map code="0x2c24" name="uni2C24"/><!-- GLAGOLITIC CAPITAL LETTER SMALL YUS -->
+      <map code="0x2c25" name="uni2C25"/><!-- GLAGOLITIC CAPITAL LETTER SMALL YUS WITH TAIL -->
+      <map code="0x2c26" name="uni2C26"/><!-- GLAGOLITIC CAPITAL LETTER YO -->
+      <map code="0x2c27" name="uni2C27"/><!-- GLAGOLITIC CAPITAL LETTER IOTATED SMALL YUS -->
+      <map code="0x2c28" name="uni2C28"/><!-- GLAGOLITIC CAPITAL LETTER BIG YUS -->
+      <map code="0x2c29" name="uni2C29"/><!-- GLAGOLITIC CAPITAL LETTER IOTATED BIG YUS -->
+      <map code="0x2c2a" name="uni2C2A"/><!-- GLAGOLITIC CAPITAL LETTER FITA -->
+      <map code="0x2c2b" name="uni2C2B"/><!-- GLAGOLITIC CAPITAL LETTER IZHITSA -->
+      <map code="0x2c2c" name="uni2C2C"/><!-- GLAGOLITIC CAPITAL LETTER SHTAPIC -->
+      <map code="0x2c2d" name="uni2C2D"/><!-- GLAGOLITIC CAPITAL LETTER TROKUTASTI A -->
+      <map code="0x2c2e" name="uni2C2E"/><!-- GLAGOLITIC CAPITAL LETTER LATINATE MYSLITE -->
+      <map code="0x2c30" name="uni2C30"/><!-- GLAGOLITIC SMALL LETTER AZU -->
+      <map code="0x2c31" name="uni2C31"/><!-- GLAGOLITIC SMALL LETTER BUKY -->
+      <map code="0x2c32" name="uni2C32"/><!-- GLAGOLITIC SMALL LETTER VEDE -->
+      <map code="0x2c33" name="uni2C33"/><!-- GLAGOLITIC SMALL LETTER GLAGOLI -->
+      <map code="0x2c34" name="uni2C34"/><!-- GLAGOLITIC SMALL LETTER DOBRO -->
+      <map code="0x2c35" name="uni2C35"/><!-- GLAGOLITIC SMALL LETTER YESTU -->
+      <map code="0x2c36" name="uni2C36"/><!-- GLAGOLITIC SMALL LETTER ZHIVETE -->
+      <map code="0x2c37" name="uni2C37"/><!-- GLAGOLITIC SMALL LETTER DZELO -->
+      <map code="0x2c38" name="uni2C38"/><!-- GLAGOLITIC SMALL LETTER ZEMLJA -->
+      <map code="0x2c39" name="uni2C39"/><!-- GLAGOLITIC SMALL LETTER IZHE -->
+      <map code="0x2c3a" name="uni2C3A"/><!-- GLAGOLITIC SMALL LETTER INITIAL IZHE -->
+      <map code="0x2c3b" name="uni2C3B"/><!-- GLAGOLITIC SMALL LETTER I -->
+      <map code="0x2c3c" name="uni2C3C"/><!-- GLAGOLITIC SMALL LETTER DJERVI -->
+      <map code="0x2c3d" name="uni2C3D"/><!-- GLAGOLITIC SMALL LETTER KAKO -->
+      <map code="0x2c3e" name="uni2C3E"/><!-- GLAGOLITIC SMALL LETTER LJUDIJE -->
+      <map code="0x2c3f" name="uni2C3F"/><!-- GLAGOLITIC SMALL LETTER MYSLITE -->
+      <map code="0x2c40" name="uni2C40"/><!-- GLAGOLITIC SMALL LETTER NASHI -->
+      <map code="0x2c41" name="uni2C41"/><!-- GLAGOLITIC SMALL LETTER ONU -->
+      <map code="0x2c42" name="uni2C42"/><!-- GLAGOLITIC SMALL LETTER POKOJI -->
+      <map code="0x2c43" name="uni2C43"/><!-- GLAGOLITIC SMALL LETTER RITSI -->
+      <map code="0x2c44" name="uni2C44"/><!-- GLAGOLITIC SMALL LETTER SLOVO -->
+      <map code="0x2c45" name="uni2C45"/><!-- GLAGOLITIC SMALL LETTER TVRIDO -->
+      <map code="0x2c46" name="uni2C46"/><!-- GLAGOLITIC SMALL LETTER UKU -->
+      <map code="0x2c47" name="uni2C47"/><!-- GLAGOLITIC SMALL LETTER FRITU -->
+      <map code="0x2c48" name="uni2C48"/><!-- GLAGOLITIC SMALL LETTER HERU -->
+      <map code="0x2c49" name="uni2C49"/><!-- GLAGOLITIC SMALL LETTER OTU -->
+      <map code="0x2c4a" name="uni2C4A"/><!-- GLAGOLITIC SMALL LETTER PE -->
+      <map code="0x2c4b" name="uni2C4B"/><!-- GLAGOLITIC SMALL LETTER SHTA -->
+      <map code="0x2c4c" name="uni2C4C"/><!-- GLAGOLITIC SMALL LETTER TSI -->
+      <map code="0x2c4d" name="uni2C4D"/><!-- GLAGOLITIC SMALL LETTER CHRIVI -->
+      <map code="0x2c4e" name="uni2C4E"/><!-- GLAGOLITIC SMALL LETTER SHA -->
+      <map code="0x2c4f" name="uni2C4F"/><!-- GLAGOLITIC SMALL LETTER YERU -->
+      <map code="0x2c50" name="uni2C50"/><!-- GLAGOLITIC SMALL LETTER YERI -->
+      <map code="0x2c51" name="uni2C51"/><!-- GLAGOLITIC SMALL LETTER YATI -->
+      <map code="0x2c52" name="uni2C52"/><!-- GLAGOLITIC SMALL LETTER SPIDERY HA -->
+      <map code="0x2c53" name="uni2C53"/><!-- GLAGOLITIC SMALL LETTER YU -->
+      <map code="0x2c54" name="uni2C54"/><!-- GLAGOLITIC SMALL LETTER SMALL YUS -->
+      <map code="0x2c55" name="uni2C55"/><!-- GLAGOLITIC SMALL LETTER SMALL YUS WITH TAIL -->
+      <map code="0x2c56" name="uni2C56"/><!-- GLAGOLITIC SMALL LETTER YO -->
+      <map code="0x2c57" name="uni2C57"/><!-- GLAGOLITIC SMALL LETTER IOTATED SMALL YUS -->
+      <map code="0x2c58" name="uni2C58"/><!-- GLAGOLITIC SMALL LETTER BIG YUS -->
+      <map code="0x2c59" name="uni2C59"/><!-- GLAGOLITIC SMALL LETTER IOTATED BIG YUS -->
+      <map code="0x2c5a" name="uni2C5A"/><!-- GLAGOLITIC SMALL LETTER FITA -->
+      <map code="0x2c5b" name="uni2C5B"/><!-- GLAGOLITIC SMALL LETTER IZHITSA -->
+      <map code="0x2c5c" name="uni2C5C"/><!-- GLAGOLITIC SMALL LETTER SHTAPIC -->
+      <map code="0x2c5d" name="uni2C5D"/><!-- GLAGOLITIC SMALL LETTER TROKUTASTI A -->
+      <map code="0x2c5e" name="uni2C5E"/><!-- GLAGOLITIC SMALL LETTER LATINATE MYSLITE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
