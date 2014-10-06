@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Glagolitic",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 11765,
+  "fonts": [
+    {
+      "name": "Noto Sans Glagolitic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansGlagolitic-Regular.ttf",
+      "postScriptName": "NotoSansGlagolitic",
+      "fullName": "Noto Sans Glagolitic",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
